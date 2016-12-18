@@ -1,0 +1,50 @@
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\bin\Debug\FRILTimeMachine.exe.config
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\bin\Debug\FRILTimeMachine.exe
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\bin\Debug\FRILTimeMachine.pdb
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\bin\Debug\MahApps.Metro.dll
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\bin\Debug\MahApps.Metro.xml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\MainWindow.baml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\PreWindow.baml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\Resources\Icons.baml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\App.baml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\MainWindow.g.cs
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\PreWindow.g.cs
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\Resources\Icons.g.cs
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\App.g.cs
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\FRILTimeMachine_Content.g.cs
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\FRILTimeMachine_MarkupCompile.cache
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\FRILTimeMachine.g.resources
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\FRILTimeMachine.Properties.Resources.resources
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\FRILTimeMachine.csproj.GenerateResource.Cache
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\FRILTimeMachine.exe
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\FRILTimeMachine.pdb
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\obj\Debug\FRILTimeMachine.csprojResolveAssemblyReference.cache
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine\FRILTimeMachine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\bin\Debug\FRILTimeMachine.exe.config
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\FRILTimeMachine.exe
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\FRILTimeMachine.pdb
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\bin\Debug\FRILTimeMachine.exe
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\bin\Debug\FRILTimeMachine.pdb
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\bin\Debug\MahApps.Metro.dll
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\bin\Debug\MahApps.Metro.xml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\FRILTimeMachine.csprojResolveAssemblyReference.cache
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\MainWindow.baml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\PreWindow.baml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\Resources\Icons.baml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\App.baml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\MainWindow.g.cs
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\PreWindow.g.cs
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\Resources\Icons.g.cs
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\App.g.cs
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\FRILTimeMachine_Content.g.cs
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\FRILTimeMachine_MarkupCompile.cache
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\FRILTimeMachine.g.resources
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\FRILTimeMachine.Properties.Resources.resources
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\FRILTimeMachine.csproj.GenerateResource.Cache
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\PilotLapsWindow.baml
+C:\Users\Rubi-MacBook\Documents\Visual Studio 2013\Projects\FRILTimeMachine - V3\FRILTimeMachine\obj\Debug\PilotLapsWindow.g.cs
